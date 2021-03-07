@@ -1,5 +1,5 @@
-這個模組是從1.5.5.1版內建的「Per Item (按件計費)」修改而來，把檔案複製到對應目錄後，後台配送模組會多出一個「按價計費」，就是它了。
-裡頭可以設定運費與門檻(達到多少免運費)。
+This module is modified from the "Per Item", which is built from the 1.5.5.1 version, copy the file to the corresponding directory, the background delivery module will be a "price bill", that is It's.
+Can set the freight and threshold (how much free shipping is reached).
 
-# LICENSE
-[GNU GPLv3 License](http://www.gnu.org/licenses/quick-guide-gplv3.html)
+# License
+[GNU GPLV3 license] (http://www.gnu.org/licenses/quick-guide-gplv3.html) 
